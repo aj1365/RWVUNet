@@ -13,17 +13,17 @@ Citation
 
 **Please kindly cite the paper if this code is useful and helpful for your research.**
 
-@article{JAMALI2024103662,
-title = {Residual wave vision U-Net for flood mapping using dual polarization Sentinel-1 SAR imagery},
-journal = {International Journal of Applied Earth Observation and Geoinformation},
-volume = {127},
-pages = {103662},
-year = {2024},
-issn = {1569-8432},
-doi = {https://doi.org/10.1016/j.jag.2024.103662},
-url = {https://www.sciencedirect.com/science/article/pii/S1569843224000165},
-author = {Ali Jamali and Swalpa Kumar Roy and Leila {Hashemi Beni} and Biswajeet Pradhan and Jonathan Li and Pedram Ghamisi},
-}
+       @article{JAMALI2024103662,
+               title = {Residual wave vision U-Net for flood mapping using dual polarization Sentinel-1 SAR imagery},
+               author = {Ali Jamali and Swalpa Kumar Roy and Leila {Hashemi Beni} and Biswajeet Pradhan and Jonathan Li and Pedram Ghamisi},
+               journal = {International Journal of Applied Earth Observation and Geoinformation},
+               volume = {127},
+               pages = {103662},
+               year = {2024},
+               issn = {1569-8432},
+               doi = {https://doi.org/10.1016/j.jag.2024.103662},
+               url = {https://www.sciencedirect.com/science/article/pii/S1569843224000165},
+              }
 
 
 
