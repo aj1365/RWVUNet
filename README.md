@@ -15,7 +15,7 @@ Citation
 
        @article{JAMALI2024103662,
                title = {Residual wave vision U-Net for flood mapping using dual polarization Sentinel-1 SAR imagery},
-               author = {Ali Jamali and Swalpa Kumar Roy and Leila {Hashemi Beni} and Biswajeet Pradhan and Jonathan Li and Pedram Ghamisi},
+               author = {Ali Jamali and Swalpa Kumar Roy and Leila Hashemi Beni and Biswajeet Pradhan and Jonathan Li and Pedram Ghamisi},
                journal = {International Journal of Applied Earth Observation and Geoinformation},
                volume = {127},
                pages = {103662},
