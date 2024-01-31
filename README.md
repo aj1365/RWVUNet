@@ -31,6 +31,9 @@ Acknowledgement
 ---------------------
  Wave Vision MLP is adopted from (https://github.com/huawei-noah/Efficient-AI-Backbones/tree/master/wavemlp_pytorch).
 
+Weights
+---------------------
+https://drive.google.com/file/d/1rlNmu4GtYuyukXpVzVVbRnLFimdrSSCN/view?usp=sharing
 
 ## License
 
